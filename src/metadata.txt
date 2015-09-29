@@ -45,7 +45,7 @@ changelog= 0.14:
         * Fix imports
 
 # Tags are comma separated with spaces allowed
-tags=service, internet, tms, wms, qms, google, openstreetmap, osm, basemap, mapquest, mapsurfer
+tags=service, internet, tms, wms, qms, google, openstreetmap, osm, basemap, mapquest, mapsurfer, arcgis
 
 homepage=
 tracker=https://github.com/nextgis/quickmapservices/issues
